@@ -7,5 +7,5 @@ This repository is kept public for the time being, but could be changed to priva
 
 Anyone wishing to open an issue or to offer help with an issue, is welcome to do so.
 
-BR,<br>
+https://blocksult.com/
 @serejandmyself
